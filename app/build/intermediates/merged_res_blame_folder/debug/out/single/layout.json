@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/fragment_home.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/activity_profiler.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/activity_profiler.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/activity_splash.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/activity_updating_user_info.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/activity_updating_user_info.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/activity_get_started.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/activity_get_started.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/activity_main.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/activity_view.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/activity_view.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/activity_login.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/dialog_password_confirmation.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/dialog_password_confirmation.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/fragment_upload_display.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/fragment_upload_display.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/fragment_account.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/fragment_account.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/activity_register.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/art_layout.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/art_layout.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/fragment_upload.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/fragment_upload.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/fragment_home_display.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/fragment_home_display.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/activity_account_settings.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/activity_account_settings.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-mergeDebugResources-55:/layout/fragment_account_display.xml",
+        "source": "com.mwangi.real.app-main-58:/layout/fragment_account_display.xml"
+    }
+]
